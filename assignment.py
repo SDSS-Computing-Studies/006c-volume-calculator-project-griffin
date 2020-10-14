@@ -7,9 +7,9 @@ def title():
     # Will display a title screen
     # input parameters: none needed
     # output parameters: None
-    # Author:
+    # Author: Copper
     # Modified:
-    
+    print(" by Chris")
     return None
 
 def instructions():
