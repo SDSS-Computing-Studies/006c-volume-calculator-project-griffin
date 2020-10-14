@@ -10,7 +10,6 @@ def title():
     # Author: Copper
     # Modified:
     # title
-    print(" by Chris")
     return None
 
 def instructions():
